@@ -1,3 +1,3 @@
 # detectable-thoughts-toolkit
 
-##### Under construction
+##### WIP
