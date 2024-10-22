@@ -1,3 +1,3 @@
-# detectable-thoughts-toolkit
+# searchable-thoughts-toolkit
 
 ##### WIP
