@@ -1,9 +1,7 @@
-# Searchable Thoughts Toolkit
+# Documentation
 
-## Documentation
+## Parser/Interpreter
 
-### Parser/Interpreter
+## Analyzer
 
-### Analyzer
-
-### Visualizer
+## Visualizer
