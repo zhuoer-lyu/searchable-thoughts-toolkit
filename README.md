@@ -1,3 +1,9 @@
-# searchable-thoughts-toolkit
+# Searchable Thoughts Toolkit
 
-##### WIP
+## Documentation
+
+### Parser/Interpreter
+
+### Analyzer
+
+### Visualizer
